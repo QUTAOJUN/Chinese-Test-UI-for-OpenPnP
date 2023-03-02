@@ -19,7 +19,8 @@
 链接地址：[https://docs.google.com/spreadsheets/d/1R2Iexl7OM_PMKlmTlxV-NgCgscmP0trcLvYTa9Ft7s8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1R2Iexl7OM_PMKlmTlxV-NgCgscmP0trcLvYTa9Ft7s8/edit?usp=sharing)
 
 
-<p>反馈方法：根据UI界面中的编号： [1……1550]，找到谷歌表格中的有效行号：1……1550。</p>
+<p>5、反馈方法：根据UI界面中的编号： [1……1550]，找到谷歌表格中的有效行号：1……1550。</p>
+<br><br><br>
 
 
 
@@ -27,5 +28,5 @@
 
 
    ![反馈版](https://user-images.githubusercontent.com/100401206/222309003-bdea6ef9-c12f-448f-9785-365cc47dce00.jpg)
-
-<p>
+<br><br>
+![谷歌表](https://user-images.githubusercontent.com/100401206/222317900-c7e091d4-5e9d-4cc3-ae06-7aa9ebd7091e.png)
