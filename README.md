@@ -20,7 +20,8 @@
 
 
 <p>5、反馈方法：根据UI界面中的编号： [1……1550]，找到谷歌表格中的有效行号：1……1550。</p>
-<br><br><br>
+<br>
+更多详细信息，请翻阅PR#1525 或者 [https://github.com/openpnp/openpnp/pull/1525#issuecomment-1449459811](https://github.com/openpnp/openpnp/pull/1525#issuecomment-1449459811)<br><br><br><br>
 
 
 
