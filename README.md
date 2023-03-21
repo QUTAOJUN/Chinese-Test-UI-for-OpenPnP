@@ -15,7 +15,7 @@
 
 
 
-<p>4、反馈链接地址，大家可以在这里为中文词条添加注释，群里群策，再创作。【期待大家的参与】</p>
+<p>4、反馈链接地址，大家可以在这里通过右键评论的方式，为中文词条表达您的信息，群策群力，再创作。【期待大家的参与】</p>
 
 链接地址：[https://docs.google.com/spreadsheets/d/1R2Iexl7OM_PMKlmTlxV-NgCgscmP0trcLvYTa9Ft7s8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1R2Iexl7OM_PMKlmTlxV-NgCgscmP0trcLvYTa9Ft7s8/edit?usp=sharing)
 
