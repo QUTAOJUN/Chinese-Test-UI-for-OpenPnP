@@ -22,13 +22,5 @@
 
 <p>5、反馈方法：根据UI界面中的编号： [1……1700]，找到谷歌表格中的有效行号：1……1700。</p>
 <br>
-更多详细信息，以及翻译方法，请翻阅PR#1525 或者 [https://github.com/openpnp/openpnp/pull/1525#issuecomment-1449459811](https://github.com/openpnp/openpnp/pull/1525#issuecomment-1449459811) <br><br><br><br>
+更多详细信息，以及翻译方法，请翻阅我的官方推送 PR#1525 或者 [https://github.com/openpnp/openpnp/pull/1525#issuecomment-1449459811](https://github.com/openpnp/openpnp/pull/1525#issuecomment-1449459811) <br><br><br><br>
 
-
-
-
-
-
-   ![反馈版](https://user-images.githubusercontent.com/100401206/222309003-bdea6ef9-c12f-448f-9785-365cc47dce00.jpg)
-<br><br>
-![谷歌表](https://user-images.githubusercontent.com/100401206/222317900-c7e091d4-5e9d-4cc3-ae06-7aa9ebd7091e.png)
