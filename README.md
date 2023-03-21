@@ -1,6 +1,7 @@
 # Chinese-Test-UI-for-OpenPnP
 
-<p>1、官方test安装版本下载地址：https://openpnp.org/test-downloads/</p>
+<p>1、最新官方test安装版本下载地址：https://openpnp.org/test-downloads/</p>
+<p> 官方test历史版本（包含最新发布的版本）收纳地址：https://openpnp.s3-us-west-2.amazonaws.com/index.html?prefix=test/</p>
 
 <p>2、注意：.Openpnp2文件夹务必备份！！务必备份！！<br>以防与您正使用的官方正式版发生冲突。<br> 否则您的贴片机的重要配置文件将会丢失！！</p>
 
