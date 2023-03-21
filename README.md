@@ -1,5 +1,5 @@
 # Chinese-Test-UI-for-OpenPnP
-详看文件夹内的使用说明.pdf，里面包含软件安装，汉化文件，以及如何反馈。更新日期20230321。
+详看文件夹内的【使用说明.pdf】，里面包含软件安装，汉化文件，以及如何反馈。更新日期20230321。
 <p>1、最新官方test安装版本下载地址：https://openpnp.org/test-downloads/</p>
 <p> 官方test历史版本（包含最新发布的版本）收纳地址：https://openpnp.s3-us-west-2.amazonaws.com/index.html?prefix=test/</p>
 
